@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinpon", "Pinpon\Pinpon\Pinpon.csproj", "{8201E2CE-1BCE-4F64-B6AA-4F7A65BB179B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PinponContent", "Pinpon\PinponContent\PinponContent.contentproj", "{642FA035-A9FD-40CB-AAE8-ED78987D8E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8201E2CE-1BCE-4F64-B6AA-4F7A65BB179B}.Debug|x86.ActiveCfg = Debug|x86
+		{8201E2CE-1BCE-4F64-B6AA-4F7A65BB179B}.Debug|x86.Build.0 = Debug|x86
+		{8201E2CE-1BCE-4F64-B6AA-4F7A65BB179B}.Release|x86.ActiveCfg = Release|x86
+		{8201E2CE-1BCE-4F64-B6AA-4F7A65BB179B}.Release|x86.Build.0 = Release|x86
+		{642FA035-A9FD-40CB-AAE8-ED78987D8E5D}.Debug|x86.ActiveCfg = Debug|x86
+		{642FA035-A9FD-40CB-AAE8-ED78987D8E5D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

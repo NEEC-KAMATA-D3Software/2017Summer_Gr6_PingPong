@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pinpon.Actor.Ball">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAIAAAAQACAAAAACAAAEAAAAAAAARAAAEABAA=</HashCode>
+      <FileName>Actor\Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pinpon.Actor.Barrier">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actor\Barrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pinpon.Actor.Character">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAwSARAAAIAAAAAAEAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actor\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pinpon.Actor.Player1">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actor\Player1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pinpon.Actor.Player2">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actor\Player2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Pinpon.Actor.Direction">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAQAAAAAAAAAABAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Actor\Ball.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
